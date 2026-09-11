@@ -8,6 +8,7 @@ I'm currently learning IoT, Networking, Web Services, and Game Programming.
 - CSS
 - PHP
 - JavaScript
+- SQL
 - Java
 - C#
 - Python,
@@ -20,8 +21,8 @@ I'm currently learning IoT, Networking, Web Services, and Game Programming.
 - Flutter
   
 ## About me
-- I like Soccer
-- I like to work in a team
+- I enjoy watching Soccer
+- Comfortable working collaboratively to achieve shared goals 
 <!--
 **daiyan03samin/daiyan03samin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
