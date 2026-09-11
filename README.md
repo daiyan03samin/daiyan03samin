@@ -1,5 +1,27 @@
-## Hi there 👋
+### Hi there 👋
+I'm Daiyan Abrar Samin, currently enrolled in Computer Science Technology at Vanier College.
 
+I'm currently learning IoT, Networking, Web Services, and Game Programming.
+
+## Programming Languages
+- HTML
+- CSS
+- PHP
+- JavaScript
+- Java
+- C#
+- Python,
+- Dart
+
+## Tools & Technologies
+- MySQL
+- Unity
+- Git
+- Flutter
+- 
+## About me
+- I like Soccer
+- I like to work in a team
 <!--
 **daiyan03samin/daiyan03samin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
